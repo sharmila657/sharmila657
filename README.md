@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **JavaScript **
+- 🌱 I’m currently learning ** MERN Stack **
 
 <br/>
 <h3 align="left">Connect with me:</h3>
