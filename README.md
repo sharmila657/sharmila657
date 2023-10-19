@@ -5,6 +5,7 @@
 <br/>
 
 - 🌱 I’m currently learning ** MERN Stack **
+- 📫 How to reach me **sharmilajirel8@gmail.com**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
