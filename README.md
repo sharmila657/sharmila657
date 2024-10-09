@@ -4,13 +4,12 @@
 
 <br/>
 
-- 🌱 I’m currently learning ** MERN Stack **
+- I develop comprehensive web applications, leveraging my full-stack development skills.
 - 📫 How to reach me **sharmilajirel8@gmail.com**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/suneelhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suneelhq" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/sharmila-jirel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharmila657" height="30" width="40" /></a>
 </p>
 <br/>
@@ -20,16 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmila657&" alt="sharmila657" /></p>
 
 
-<!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
